@@ -1,2 +1,2 @@
-# Social-behavior-community-composition-pathogen-strain-and-host-symbionts-drive-fungal-disease-dyna
+# Behavior-commcomposition-strain-symbionts-environment-drive-fungal-disease-dynamics-salamanders
 Code for publication
